@@ -1,0 +1,1 @@
+This R package provides the WRMT (win ratio with multiple thresholds) and WRAT (win ratio with adaptive thresholds) analyses for composite endpoints in clinical trials, based on the methodology in Mou et al. (2024, arXiv:2407.18341).
