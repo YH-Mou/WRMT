@@ -1,0 +1,16 @@
+Package: WRMT
+Title: Win Ratio with Multiple Thresholds for Composite Endpoints
+Version: 0.1.0
+Authors@R: person("Yunhan", "Mou",
+                  email = "yunhan.mou@gmail.com",
+                  role = c("aut", "cre"))
+Description: This package provides the WRMT (win ratio with multiple thresholds) and WRAT (win ratio with adaptive thresholds) analyses for composite endpoints in clinical trials, based on the methodology in Mou et al. (2024, arXiv:2407.18341).
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    dplyr
+Depends: 
+    R (>= 3.5)
+LazyData: true
